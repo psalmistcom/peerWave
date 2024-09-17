@@ -39,23 +39,23 @@ import {
 export const navigation = [
   {
     id: "0",
-    title: "Features",
-    url: "#features",
+    title: "Sell Crypto",
+    url: "#sell-crypto",
   },
   {
     id: "1",
-    title: "Pricing",
-    url: "#pricing",
+    title: "Buy Crypto",
+    url: "#buy-crypto",
   },
   {
     id: "2",
-    title: "How to use",
-    url: "#how-to-use",
+    title: "Swap",
+    url: "#swap",
   },
   {
     id: "3",
-    title: "Roadmap",
-    url: "#roadmap",
+    title: "Create Offer",
+    url: "#create-offer",
   },
   {
     id: "4",
